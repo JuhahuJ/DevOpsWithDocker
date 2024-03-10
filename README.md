@@ -1,2 +1,2 @@
 # DevOpsWithDocker
-Repository for University of Helsinki Docker Courses
+Repository for University of Helsinki Docker Courses' exercises
