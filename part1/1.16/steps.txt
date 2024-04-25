@@ -1,0 +1,8 @@
+I used the already existing docker image from exercise 1.14 for the frontend half: example-frontend.
+I created a repository for it in docker hub and tagged it to upload it to docker hub with: docker tag example-frontend juhahuj/example-frontend
+I pushed the image to docker hub with: docker push juhahuj/example-frontend
+I created a new web service in render.com using the docker hub repository.
+
+Here is the link: https://example-frontend-ckn4.onrender.com
+
+As I am using the free tier of render it may take a while to open!
