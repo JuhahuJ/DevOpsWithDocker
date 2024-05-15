@@ -1,0 +1,7 @@
+services:
+  app:
+    image: juhahuj/express-app
+    ports: 
+      - 8080:8080
+    container_name: express_app
+    build: ./express-app
