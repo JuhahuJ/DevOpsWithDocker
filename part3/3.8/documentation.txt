@@ -1,0 +1,2 @@
+Frontend image size at the start: 481MB
+Frontend image size at the end: 129MB

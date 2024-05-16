@@ -1,0 +1,5 @@
+Backend image size at the start: 646MB
+Backend image size at the end: 470MB
+
+Frontend image size at the start: 1.27GB
+Frontend image size at the end: 481MB

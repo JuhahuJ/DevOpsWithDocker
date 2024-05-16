@@ -1,0 +1,3 @@
+Let's create a new version of spring-example.
+Original image size: 436MB
+Image size afterwards: 134MB

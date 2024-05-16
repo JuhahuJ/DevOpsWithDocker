@@ -1,0 +1,2 @@
+Backend image size at the start: 470MB
+Backend image size at the end: 19.1MB
